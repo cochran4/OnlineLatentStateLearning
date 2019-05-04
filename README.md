@@ -5,7 +5,7 @@ Do not hestitate to email cochran4@wisc.edu if you have any questions.
 
 Folders are divided as follows:
 
-- Approaches: contains learning models used in the paper (e.g., LatentState is the complete latent-state model presented in the paper). 
+- Approaches: contains learning models used in the paper (e.g., LatentState is the latent-state model presented in the paper). 
 
 - Common Files: contains all the files that are used by simulation examples
 
