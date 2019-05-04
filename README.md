@@ -12,7 +12,7 @@ Folders are divided as follows:
 - Example-specific folders contain details of specific simulation experiments (e.g., PREE Example reproduces the partial reinforcement extinction effect simulations)
 
 
-Within each example-specific folder, you can run a simulation experiment (and generate figures) by running the command RunXXX in matlab were XXX is a label of the simulation example. 
+Within each example-specific folder, you can run a simulation experiment (and generate figures) by running the command RunX in matlab were X is the name of the simulation example. 
 
 Within the Common Files folder, 
 
